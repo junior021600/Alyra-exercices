@@ -1,4 +1,4 @@
-//let mot = prompt("alla")
+//let mot = prompt("elle")
 var mot = "elle" ; {
     console.log("Le mot " + mot + " contient " + mot.length + " caractères");
     console.log("Il s'écrit en minuscule " + mot.toLowerCase());
